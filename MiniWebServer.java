@@ -2,7 +2,7 @@
 
 1. Name / Date: Vivekraju Vasudevaraju / 07/05/2021
 
-2. Java version used (java -version), if not the official version for the class:
+2. Java version used (java -version):
 
     build 11.0.10+9
 
@@ -16,25 +16,11 @@
 
 5. List of files needed for running the program.
 
-    a. MiniWebChecklist.html
-    b. MiniWebServer.java
+    a. MiniWebServer.java
 
 5. Notes:
     
     None
-
-For the MiniWebserver assignment answer these questions briefly in YOUR OWN
-WORDS here in your comments:
-
-1. How MIME-types are used to tell the browser what data is coming.
-Multi purpose Internet Mail Extension abbreviated as MIME is used to describe the media type of the content served by the web. It is intended to help guide a web browser to correctly process and display the content.
-There are various MIME-types like text/html, text/plain, application/pdf.
-
-2. How you would return the contents of requested files of type HTML
-Set the MIME-type in the header sent to the browser to "text/html", this indicates the browser to load an HTML file.
-
-3. How you would return the contents of requested files of type TEXT
-Set the MIME-type in the header sent to the browser to "text/plain", this indicates the browser to load an plain text file.
 
 */
 
