@@ -20,4 +20,4 @@ Serving HTTP on localhost port 2540 ...
 
 ### Static files tutorial
 
-![image](https://user-images.githubusercontent.com/45933612/155931188-516efadf-7c59-4faa-889c-6bb314f81446.png)
+![image](https://user-images.githubusercontent.com/45933612/155931346-1099f472-8b9f-4015-8476-394dae291e89.png)
